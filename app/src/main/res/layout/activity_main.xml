@@ -54,7 +54,7 @@
                 android:id="@+id/fab"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/spacing_large"
+                android:layout_margin="16dp"
                 android:clickable="true"
                 android:src="@drawable/ic_menu_search"
                 app:fabSize="normal"
